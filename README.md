@@ -119,6 +119,7 @@ If you use this code, dataset, or any part of this work in your research or publ
 For questions, collaborations, or further information, feel free to reach out:
 
 - 📧 Muhammad Ashar Tariq — [tariqashar5@gmail.com](mailto:tariqashar5@gmail.com)
+- 🔗 LinkedIn — [linkedin.com/in/tariqashar5](https://www.linkedin.com/in/tariqashar5)
 
 ---
 
