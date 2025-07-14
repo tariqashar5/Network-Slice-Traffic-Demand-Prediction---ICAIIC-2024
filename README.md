@@ -111,3 +111,20 @@ If you use this code, dataset, or any part of this work in your research or publ
   organization={IEEE}
 }
 ```
+
+---
+
+## 📬 Contact
+
+For questions, collaborations, or further information, feel free to reach out:
+
+- 📧 Muhammad Ashar Tariq — [tariqashar5@gmail.com](mailto:tariqashar5@gmail.com)
+
+---
+
+## 🔒 License
+
+This repository is intended for **academic and research purposes only**.  
+Please contact the authors for permission regarding commercial use or redistribution.
+
+---
